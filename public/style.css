@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;1,300&display=swap');
+
+.center-div{
+    padding-top: 18%;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-image: url('/assets/joanna-kosinska-1_CMoFsPfso-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+form{
+    padding: 0em 3em;
+}
+
+.btn.btn-success{
+padding: .4em 2em;
+}
+
+#login .title>span{
+    font-size: .8em;
+}
